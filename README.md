@@ -1,2 +1,2 @@
 # zhao_for_practice
-Practice
+This document is created simply for practice.
